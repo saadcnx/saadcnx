@@ -1,6 +1,6 @@
 # Hi, I'm Saad Khan 👋
 
-I'm a **Senior Systems Engineer & Linux Administrator** from Pakistan, passionate about building secure, scalable, and high-performance infrastructures in dynamic cloud environments.
+I'm a **Systems Engineer & Linux Administrator** from Pakistan, passionate about building secure, scalable, and high-performance infrastructures in dynamic cloud environments.
 
 ## 🔧 Technical Skills
 
