@@ -1,44 +1,87 @@
-# Hi, I'm Saad Khan 👋
+# 👋 Hi, I'm Saad Khan
 
-I'm a **Systems Engineer & Linux Administrator** from Pakistan, passionate about building secure, scalable, and high-performance infrastructures in dynamic cloud environments.
-
-## 🔧 Technical Skills
-
-- **Linux Administration:** Expertise in managing RHEL, Ubuntu, CentOS, AlmaLinux, and SUSE.
-- **Cloud & Virtualization:** Experience with AWS, VMware, Proxmox, and Hyper-V.
-- **High Availability & Performance:** Advanced load balancing, failover strategies, and proactive incident management.
-- **Automation & CI/CD:** Proficient in Terraform, Ansible, Bash, and Python for streamlined deployments.
-- **Containerization:** Skilled in Docker and actively expanding Kubernetes orchestration expertise.
-- **Security & Disaster Recovery:** Implementing robust security protocols, backup strategies, and disaster recovery procedures.
-
-## 🚀 What I Do
-
-I design, deploy, and manage high-availability Linux infrastructures that power mission-critical, high-traffic digital experiences. My work involves:
-- Building and optimizing scalable systems.
-- Automating routine operations to boost efficiency.
-- Ensuring robust security and data integrity.
-- Collaborating on open source projects and contributing to the community.
-
-## 🌱 Passion & Open Source
-
-I am a passionate advocate of open-source technologies and continuous learning. I regularly contribute to various projects and strive to share knowledge with the community. 
-
-## 📫 How to Reach Me
-
-- **Email:** [saadcnx@gmail.com](mailto:saadcnx@gmail.com)
-- **LinkedIn:** [Saad Khan](https://www.linkedin.com/in/saad-khan-sysops/)
-- **Phone:** +92 370 7645187
-
-## ⚡️ Fun Facts
-
-- I'm passionate about **cybersecurity**, **DevOps**, and building **resilient systems**.
-- I love exploring new technologies and continuously improving my skill set.
-- When I'm not working on infrastructure, you can find me reading about new tech trends or exploring the world of open source.
+🚀 **Cloud & DevOps Engineer**  
+🌍 Passionate about Linux, Kubernetes, Cloud-Native technologies, and automation
 
 ---
 
-Feel free to check out my repositories to see projects and code that I’ve worked on. I’m always open to collaboration and discussion, so don't hesitate to reach out!
+## 🧠 About Me
 
-<!--
-**saad-khan-sysops/saad-khan-sysops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I am a Cloud & DevOps Engineer with hands-on experience in designing, deploying, and managing cloud-native and containerized applications.  
+I work extensively with Linux systems, Kubernetes, and DevOps tools to build scalable, secure, and highly available infrastructure.
+
+I focus on **automation, reliability, and modern infrastructure practices** aligned with real-world production environments.
+
+---
+
+## 🛠️ Core Skills
+
+### ☁️ Cloud & Platforms
+- Kubernetes
+- OpenShift
+- Cloud-Native Architecture
+- Container Orchestration
+- Microservices Design
+
+### 🐧 Linux & Open Source
+- Red Hat Enterprise Linux (RHEL)
+- Linux System Administration
+- Shell/Bash Scripting
+- User, Process & Service Management
+- Networking & Storage
+
+### 📦 Containers & Orchestration
+- Docker
+- Podman
+- Kubernetes Deployments
+- Services, ConfigMaps & Secrets
+- Scaling & Health Probes
+
+### ⚙️ DevOps & Automation
+- Ansible
+- CI/CD Concepts
+- Infrastructure as Code (IaC)
+- YAML-based Configuration
+- Git & GitHub
+
+### 📊 Observability & Operations
+- Logging & Monitoring Concepts
+- Application Health Checks
+- Troubleshooting & Debugging
+- Performance Awareness
+
+### 🔐 Security & Best Practices
+- Secrets Management
+- Role-based Access Control (RBAC) basics
+- Secure Service Communication
+- Least-Privilege Principles
+
+---
+
+## 🎯 Professional Focus
+
+- Cloud-Native Infrastructure
+- Kubernetes & Containers
+- Linux Systems Engineering
+- DevOps & Automation
+- Platform Reliability
+
+---
+
+## 📜 Learning & Growth
+
+- Red Hat Enterprise Linux
+- Kubernetes & Cloud-Native Ecosystem
+- DevOps Tooling & Automation
+- Open Source Technologies
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/<saadcnx>
+- LinkedIn: https://www.linkedin.com/in/saad-khan-sysops/
+
+---
+
+⭐ *I believe in continuous learning, clean infrastructure, and building systems that scale.*
