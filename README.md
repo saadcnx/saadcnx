@@ -1,87 +1,67 @@
-# 👋 Hi, I'm Saad Khan
+<h1 align="center">Hi, I'm Saad Khan 👋</h1>
 
-🚀 **Cloud & DevOps Engineer**  
-🌍 Passionate about Linux, Kubernetes, Cloud-Native technologies, and automation
-
----
-
-## 🧠 About Me
-
-I am a Cloud & DevOps Engineer with hands-on experience in designing, deploying, and managing cloud-native and containerized applications.  
-I work extensively with Linux systems, Kubernetes, and DevOps tools to build scalable, secure, and highly available infrastructure.
-
-I focus on **automation, reliability, and modern infrastructure practices** aligned with real-world production environments.
+<p align="center">
+DevOps Engineer • Linux Administrator • Cloud & Automation Enthusiast
+</p>
 
 ---
 
-## 🛠️ Core Skills
+## 🚀 About Me
 
-### ☁️ Cloud & Platforms
-- Kubernetes
-- OpenShift
-- Cloud-Native Architecture
-- Container Orchestration
-- Microservices Design
+- DevOps Engineer with hands-on experience in Linux, Kubernetes, Docker, Terraform, AWS, and CI/CD pipelines.
+- Strong background in Linux system administration, automation, infrastructure management, and monitoring.
+- Experienced with production-focused deployments, observability stacks, and cloud-native technologies.
+- Passionate about building scalable, reliable, and automated systems.
 
-### 🐧 Linux & Open Source
-- Red Hat Enterprise Linux (RHEL)
-- Linux System Administration
-- Shell/Bash Scripting
-- User, Process & Service Management
-- Networking & Storage
+---
 
-### 📦 Containers & Orchestration
+## 🛠 Tech Stack
+
+### Cloud & Infrastructure
+- AWS
+- Terraform
+- Linux
+- Proxmox
+- VMware
+
+### Containers & Orchestration
 - Docker
+- Kubernetes
+- Docker Compose
 - Podman
-- Kubernetes Deployments
-- Services, ConfigMaps & Secrets
-- Scaling & Health Probes
 
-### ⚙️ DevOps & Automation
+### CI/CD & Automation
+- GitHub Actions
+- Jenkins
 - Ansible
-- CI/CD Concepts
-- Infrastructure as Code (IaC)
-- YAML-based Configuration
-- Git & GitHub
+- Bash
+- Python
 
-### 📊 Observability & Operations
-- Logging & Monitoring Concepts
-- Application Health Checks
-- Troubleshooting & Debugging
-- Performance Awareness
+### Monitoring & Observability
+- Prometheus
+- Grafana
+- ELK Stack
+- Zabbix
+- Nagios
 
-### 🔐 Security & Best Practices
-- Secrets Management
-- Role-based Access Control (RBAC) basics
-- Secure Service Communication
-- Least-Privilege Principles
+### Backend & Databases
+- Flask
+- MySQL
+- REST APIs
 
 ---
 
-## 🎯 Professional Focus
+## 🌐 Connect With Me
 
-- Cloud-Native Infrastructure
-- Kubernetes & Containers
-- Linux Systems Engineering
-- DevOps & Automation
-- Platform Reliability
-
----
-
-## 📜 Learning & Growth
-
-- Red Hat Enterprise Linux
-- Kubernetes & Cloud-Native Ecosystem
-- DevOps Tooling & Automation
-- Open Source Technologies
+- LinkedIn: https://linkedin.com/in/saad-khan-sysops/
+- Portfolio: https://saadcnx.pages.dev
+- GitHub: https://github.com/saadcnx
+- Twitter: https://x.com/saad__devops
+- Mastodon: https://mastodon.social/@saad_devops
+- Medium: https://medium.com/@saadcnx
 
 ---
 
-## 🤝 Connect With Me
+## ⚡ Philosophy
 
-- GitHub: https://github.com/<saadcnx>
-- LinkedIn: https://www.linkedin.com/in/saad-khan-sysops/
-
----
-
-⭐ *I believe in continuous learning, clean infrastructure, and building systems that scale.*
+> Automate everything. Build reliable systems. Keep learning.
